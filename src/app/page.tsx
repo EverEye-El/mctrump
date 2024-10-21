@@ -13,7 +13,7 @@ export default function Home() {
             className="text-red-600 bg-white border-white hover:bg-yellow-400 hover:text-red-600 hover:border-yellow-400 transition-colors duration-200"
             asChild
           >
-            <Link href="https://pump.fun/Gaxr2rNkSvmMYnZrCPfgdza4bWtRpBTx5UPMSAqspump">Buy Now</Link>
+            <Link href="https://pump.fun/Gaxr2rNkSvmMYnZrCPfgdza4bWtRpBTx5UPMSAqspump">Buy $MCTRUMP</Link>
           </Button>
         </nav>
       </header>
