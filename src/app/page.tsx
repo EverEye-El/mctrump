@@ -13,14 +13,14 @@ export default function Home() {
             className="text-red-600 bg-white border-white hover:bg-yellow-400 hover:text-red-600 hover:border-yellow-400 transition-colors duration-200"
             asChild
           >
-            <Link href="https://pump.fun">Buy Now</Link>
+            <Link href="https://pump.fun/Gaxr2rNkSvmMYnZrCPfgdza4bWtRpBTx5UPMSAqspump">Buy Now</Link>
           </Button>
         </nav>
       </header>
       
       <main className="container mx-auto mt-12 text-center">
         <h2 className="text-5xl font-extrabold mb-6">Make Crypto Great Again!</h2>
-        <p className="text-xl mb-8">Introducing McDonald Trump ($MCTRUMP) - The tastiest memecoin in the crypto menu!</p>
+        <p className="text-xl mb-8">Introducing McDonald Trump ($MCTRUMP) - The tastiest memecoin on the crypto menu!</p>
         
         <div className="bg-white rounded-lg p-8 mb-12">
           <Image
@@ -48,7 +48,7 @@ export default function Home() {
         </div>
         
         <Button size="lg" className="bg-yellow-400 text-red-600 hover:bg-yellow-500 text-xl px-8 py-4" asChild>
-          <Link href="https://pump.fun">Grab Your $MCTRUMP Now!</Link>
+          <Link href="https://pump.fun/Gaxr2rNkSvmMYnZrCPfgdza4bWtRpBTx5UPMSAqspump">Grab Your $MCTRUMP Now!</Link>
         </Button>
       </main>
       
